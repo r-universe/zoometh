@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iconr"]
+	path = iconr
+	url = https://github.com/zoometh/iconr
+	shallow = true
+	registered = true
